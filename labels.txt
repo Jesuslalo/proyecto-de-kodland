@@ -1,0 +1,7 @@
+0 papel
+1 organico
+2 metal
+3 vidrio
+4 bolsa de plastico
+5 lata
+6 planta
